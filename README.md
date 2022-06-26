@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Letmeask" src=".github/logo.svg" width="160px">
+  <img alt="Event Platform" src=".github/logo.svg" width="160px">
 </p>
 
 <p align="center">
@@ -10,14 +10,14 @@
 </p>
 
 <h1 align="center">
-    <img alt="Ignite Lab" src=".github/cover.png" />
+    <img alt="Bakcground Even Platform" src=".github/cover.png" />
 </h1>
 
 <br>
 
-## 🧪 Tecnologias
+## 🧪 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [React](https://reactjs.org)
 - [GraphCMS](https://app.graphcms.com/)
@@ -26,35 +26,35 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Apollo Client](https://www.apollographql.com/)
 - [Vime](https://vimejs.com/)
 
-## 🚀 Como executar
+## 🚀 How to run
 
-Clone o projeto e acesse a pasta do mesmo.
+Clone the project and access its folder.
 
 ```bash
 $ git clone https://github.com/Mateus0808/event-platform.git
 $ cd event-platform
 ```
 
-Para iniciá-lo, siga os passos abaixo:
+To start it, follow the steps below:
 ```bash
-# Instalar as dependências
+# Install dependencies
 $ yarn
 
-# Iniciar o projeto
+# Start project
 $ yarn dev
 ```
-O app estará disponível no seu browser pelo endereço http://localhost:3000.
+The app will be available in your browser at http://localhost:3000.
 
-Em seguida, clique no link [model do GraphCMS](https://app.graphcms.com/clone/5b02fcd9a4b940a8b6e0b9250053ce7e?name=Ignite%20Lab%20-%20Mateus%20dos%20Santos) para clonar o model.
-- Se não possuir uma conta no GraphCMS, é preciso criar.
-- Acesse API Access - Endpoints - copie e cole o Endpoint Content API e o  token para seu arquivo de variáveis de ambientes
+Then click the [GraphCMS model](https://app.graphcms.com/clone/5b02fcd9a4b940a8b6e0b9250053ce7e?name=Ignite%20Lab%20-%20Mateus%20dos%20Santos) link to clone the model.
+- If you do not have a GraphCMS account, you must create one.
+- Access API Access - Endpoints - copy and paste the Endpoint Content API and token to your environment variables file
   * `VITE_API_URL: <ContentAPI>`
   * `VITE_API_ACCESS_TOKEN: <Permanent Auth Tokens>`
 
 
-## 💻 Projeto
+## 💻 Project description
 Plataforma de eventos
 
-Acesse o site pelo link: [Event Platform](https://event-platform-rouge.vercel.app/)
+Access the website via the link: [Event Platform](https://event-platform-rouge.vercel.app/)
 
 ---
